@@ -1,3 +1,5 @@
+--Code to Create the Table in Postgresql
+
 CREATE TABLE public.airline_crash_data (
     index SERIAL PRIMARY KEY,
     accident_date DATE,
@@ -14,7 +16,12 @@ CREATE TABLE public.airline_crash_data (
     crash_reason TEXT,
     crash_severity VARCHAR(50)
 );
+
+
 select * from airline_crash_data
+
+--Code to Generate Random data and Insert in the Table
+
 DO $$ 
 DECLARE 
     i INT;
