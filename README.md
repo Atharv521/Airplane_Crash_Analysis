@@ -4,7 +4,7 @@ A data analysis and visualization project using **SQL** and **Power BI** to expl
 # ✈️ Airplane Crash Insights
 
 ## 📝 Project Overview
-This project provides insights into airplane crash incidents from **2000 to 2023** using a dataset generated through **SQL**. The dataset includes details such as accident dates, locations, plane types, causes, and outcomes. The goal is to explore trends in aviation accidents and provide valuable insights through data visualization in **Power BI**.
+This project provides insights into airplane crash incidents from **2000 to 2025** using a dataset generated through **SQL**. The dataset includes details such as accident dates, locations, plane types, causes, and outcomes. The goal is to explore trends in aviation accidents and provide valuable insights through data visualization in **Power BI**.
 
 ## 📊 Dataset Generation
 - 🛠 **Created using SQL queries** in **PostgreSQL**.
@@ -61,7 +61,7 @@ The Power BI dashboard includes various visualizations to analyze airplane crash
    - Use the Power BI dashboard to analyze trends, compare crash reasons, and interpret key insights.
 
 ## ⚠️ Disclaimer
-This dataset is **entirely synthetic**, generated using SQL queries, and does **not** represent actual aviation accidents. The purpose of this project is to demonstrate data analysis, SQL-based data generation, and visualization techniques using Power BI.
+This dataset is **entirely synthetic**, generated using SQL queries, and does **not** represent actual aviation accidents. So when executed again then diff values could be generated.  The purpose of this project is to demonstrate data analysis, SQL-based data generation, and visualization techniques using Power BI.
 
 ## 📁 Repository Structure
 ```
