@@ -49,7 +49,7 @@ The Power BI dashboard includes various visualizations to analyze airplane crash
 ## 🚀 How to Use This Project
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/Airplane-Crash-Insights.git
+   https://github.com/Atharv521/Airplane_Crash_Analysis.git
    ```
 2. **Open the SQL Script**
    - Use PostgreSQL to execute the `airplane_crash_data.sql` file to generate the dataset.
