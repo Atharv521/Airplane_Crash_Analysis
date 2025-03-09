@@ -19,7 +19,6 @@ A data analysis and visualization project using **SQL** and **Power BI** to expl
 - [Acknowledgement](#acknowledgement)
 
 
-
 ---
 
 # ✈️ Airplane Crash Insights
