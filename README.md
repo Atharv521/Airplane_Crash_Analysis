@@ -3,20 +3,20 @@ A data analysis and visualization project using **SQL** and **Power BI** to expl
 
 # Table of Contents 
 
-1. [Project Overview](#project-overview)
-2. [Dataset Generation](#dataset-generation)
-3. [Key Performance Indicators](#key-performance-indicators-(kpis))
-4. [Data Visualizations](#data-visualizations)
-   1. [Crash Reasons Over Time (2000 - 2025)](#crash-reasons-over-time(2000-2025))
-   2. [Quarterly Trend of Fatalities & Survivors](#quarterly-trend-of-fatalities-&-survivors)
-   3. [Most Affected Aircraft Models](#most-affected-aircraft-models)
-   4. [Geographical Distribution of Airplane Crashes](#geographical-distribution-of-airplane-crashes)
-   5. [Crash Location Type (Ground vs. Water)](#crash-location-type-(Ground-vs-Water))
-5. [Technologies Used](#technologies-used)
-6. [How to Use This Project](#how-to-use-this-project)
-7. [Disclaimer](#disclaimer)
-8. [Repository Structure](#repository-structure)
-9. [Acknowledgement](#acknowledgement)
+- [Project Overview](#project-overview)
+- [Dataset Generation](#dataset-generation)
+- [Key Performance Indicators](#key-performance-indicators-(kpis))
+- [Data Visualizations](#data-visualizations)
+  - [Crash Reasons Over Time (2000 - 2025)](#crash-reasons-over-time(2000-2025))
+  - [Quarterly Trend of Fatalities & Survivors](#quarterly-trend-of-fatalities-&-survivors)
+  - [Most Affected Aircraft Models](#most-affected-aircraft-models)
+  - [Geographical Distribution of Airplane Crashes](#geographical-distribution-of-airplane-crashes)
+  - [Crash Location Type (Ground vs. Water)](#crash-location-type-(Ground-vs-Water))
+- [Technologies Used](#technologies-used)
+- [How to Use This Project](#how-to-use-this-project)
+- [Disclaimer](#disclaimer)
+- [Repository Structure](#repository-structure)
+- [Acknowledgement](#acknowledgement)
 
 ---
 
